@@ -79,3 +79,4 @@ A бере звичайний велосипед 2 зі станції 1, кат
 1	(Філоненко Денис)	bicikle.py, defaulte_bicikle.py, electro_bicikle.py	класи Bicikle, Default_bicikle, Electro_bicikle,station.py	клас Station: поїздки (rent_bicikle, receive_bicikle) і облік виручки (total_profit, get_total_profit)
 2	(Завгородній Захар)	user.py, admin.py	класи Client і Admin
 4 (Денис Балабуха)	Main.py	main(), тестові дані, звіт адміністратора
+Всі коміти були зроблені Захаром ,бо Денису Ф. видавало помилку пароля і юсернейма,він пробував через токен але всеодно видавало помилку і через те що часу не вистачало тому ми вирішили ,що все закомітить Захар .
